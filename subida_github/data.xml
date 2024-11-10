@@ -1,0 +1,43 @@
+<CARTA>
+  <GRUP>
+    <NOM>Entrantes</NOM>
+    <PLAT>
+      <NOM>Bruschetta</NOM>
+      <DESCRIPCIO>Pan tostado con tomate, ajo y albahaca fresca.</DESCRIPCIO>
+      <PREU>5</PREU>
+    </PLAT>
+    <PLAT>
+      <NOM>Ensalada Caprese</NOM>
+      <DESCRIPCIO>Tomate, mozzarella y albahaca con un toque de aceite de oliva.</DESCRIPCIO>
+      <PREU>6</PREU>
+    </PLAT>
+  </GRUP>
+
+  <GRUP>
+    <NOM>Platos Principales</NOM>
+    <PLAT>
+      <NOM>Risotto de Setas</NOM>
+      <DESCRIPCIO>Cremoso risotto con setas frescas y parmesano.</DESCRIPCIO>
+      <PREU>12</PREU>
+    </PLAT>
+    <PLAT>
+      <NOM>Filete de Ternera</NOM>
+      <DESCRIPCIO>Filete de ternera a la parrilla con guarnición de vegetales.</DESCRIPCIO>
+      <PREU>18</PREU>
+    </PLAT>
+  </GRUP>
+
+  <GRUP>
+    <NOM>Postres</NOM>
+    <PLAT>
+      <NOM>Tiramisú</NOM>
+      <DESCRIPCIO>Clásico tiramisú italiano con café y mascarpone.</DESCRIPCIO>
+      <PREU>6</PREU>
+    </PLAT>
+    <PLAT>
+      <NOM>Crema Catalana</NOM>
+      <DESCRIPCIO>Postre tradicional con crema y azúcar caramelizado.</DESCRIPCIO>
+      <PREU>5</PREU>
+    </PLAT>
+  </GRUP>
+</CARTA>
