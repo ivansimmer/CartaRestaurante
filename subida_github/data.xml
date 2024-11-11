@@ -2,6 +2,16 @@
   <GRUP>
     <NOM>Entrantes</NOM>
     <PLAT>
+      <NOM>Bravas</NOM>
+      <DESCRIPCIO>Medias lunas de patata, fritas con salsa brava ligeramente picante.</DESCRIPCIO>
+      <PREU>3,50</PREU>
+    </PLAT>
+    <PLAT>
+      <NOM>Nachos</NOM>
+      <DESCRIPCIO>Nachos con salsa de guacamole.</DESCRIPCIO>
+      <PREU>8</PREU>
+    </PLAT>
+    <PLAT>
       <NOM>Bruschetta</NOM>
       <DESCRIPCIO>Pan tostado con tomate, ajo y albahaca fresca.</DESCRIPCIO>
       <PREU>5</PREU>
@@ -16,6 +26,16 @@
   <GRUP>
     <NOM>Platos Principales</NOM>
     <PLAT>
+      <NOM>Salmón a la plancha con guarnición</NOM>
+      <DESCRIPCIO>Salmón hecho a la plancha con arroz y  guarnición de esparragos.</DESCRIPCIO>
+      <PREU>13,50</PREU>
+    </PLAT>
+    <PLAT>
+      <NOM>Costillar con vino tinto</NOM>
+      <DESCRIPCIO>Costillas de cerdo con ligero sabor a vino tinto.</DESCRIPCIO>
+      <PREU>19,90</PREU>
+    </PLAT>
+    <PLAT>
       <NOM>Risotto de Setas</NOM>
       <DESCRIPCIO>Cremoso risotto con setas frescas y parmesano.</DESCRIPCIO>
       <PREU>12</PREU>
@@ -29,6 +49,16 @@
 
   <GRUP>
     <NOM>Postres</NOM>
+    <PLAT>
+      <NOM>Cheesecake de Oreo con base de galleta</NOM>
+      <DESCRIPCIO>Clásica tarta de queso con base de galleta y parte superior de Oreo.</DESCRIPCIO>
+      <PREU>6,80</PREU>
+    </PLAT>
+    <PLAT>
+      <NOM>Coulant de chocolate</NOM>
+      <DESCRIPCIO>Delicioso coulant de chocolate con una bola de helado de vainilla como acompañante.</DESCRIPCIO>
+      <PREU>4</PREU>
+    </PLAT>
     <PLAT>
       <NOM>Tiramisú</NOM>
       <DESCRIPCIO>Clásico tiramisú italiano con café y mascarpone.</DESCRIPCIO>
