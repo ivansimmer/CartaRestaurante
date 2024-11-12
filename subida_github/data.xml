@@ -5,21 +5,25 @@
       <NOM>Bravas</NOM>
       <DESCRIPCIO>Medias lunas de patata, fritas con salsa brava ligeramente picante.</DESCRIPCIO>
       <PREU>3,50</PREU>
+      <IMATGE>https://www.goya.com/media/7699/spicy-potatoes.jpg?quality=80</IMATGE>
     </PLAT>
     <PLAT>
       <NOM>Nachos</NOM>
       <DESCRIPCIO>Nachos con salsa de guacamole.</DESCRIPCIO>
       <PREU>8</PREU>
+      <IMATGE>https://recetas.coosur.com/wp-content/uploads/sites/2/2024/01/nachos-con-guacamole.jpg</IMATGE>
     </PLAT>
     <PLAT>
       <NOM>Bruschetta</NOM>
       <DESCRIPCIO>Pan tostado con tomate, ajo y albahaca fresca.</DESCRIPCIO>
       <PREU>5</PREU>
+      <IMATGE>https://es.giallozafferano.com/images/2-292/Bruschettas-con-tomate_1200x800.jpg</IMATGE>
     </PLAT>
     <PLAT>
       <NOM>Ensalada Caprese</NOM>
       <DESCRIPCIO>Tomate, mozzarella y albahaca con un toque de aceite de oliva.</DESCRIPCIO>
       <PREU>6</PREU>
+      <IMATGE>https://www.huleymantel.com/uploads/s1/36/17/27/ensalada-caprese-tomates-maduros-queso-mozzarella-hojas-albahaca-fresca-166116-3714.jpeg</IMATGE>
     </PLAT>
   </GRUP>
 
@@ -29,21 +33,25 @@
       <NOM>Salmón a la plancha con guarnición</NOM>
       <DESCRIPCIO>Salmón hecho a la plancha con arroz y  guarnición de esparragos.</DESCRIPCIO>
       <PREU>13,50</PREU>
+      <IMATGE>https://images.mrcook.app/recipe-image/018eb692-30cd-77c5-83ec-80435066d0ee</IMATGE>
     </PLAT>
     <PLAT>
       <NOM>Costillar con vino tinto</NOM>
       <DESCRIPCIO>Costillas de cerdo con ligero sabor a vino tinto.</DESCRIPCIO>
       <PREU>19,90</PREU>
+      <IMATGE>https://images.squarespace-cdn.com/content/v1/6002d48ee8c063189b65e15f/1615807557146-SKGFIOARQAAQV7X7CL43/IMG_8202.JPG</IMATGE>
     </PLAT>
     <PLAT>
       <NOM>Risotto de Setas</NOM>
       <DESCRIPCIO>Cremoso risotto con setas frescas y parmesano.</DESCRIPCIO>
       <PREU>12</PREU>
+      <IMATGE>https://www.annarecetasfaciles.com/files/risotto-setas-1-2-scaled.jpg</IMATGE>
     </PLAT>
     <PLAT>
       <NOM>Filete de Ternera</NOM>
       <DESCRIPCIO>Filete de ternera a la parrilla con guarnición de vegetales.</DESCRIPCIO>
       <PREU>18</PREU>
+      <IMATGE>https://www.carlanot.com/Resources/Recipe/apats.jpg</IMATGE>
     </PLAT>
   </GRUP>
 
@@ -53,21 +61,25 @@
       <NOM>Cheesecake de Oreo con base de galleta</NOM>
       <DESCRIPCIO>Clásica tarta de queso con base de galleta y parte superior de Oreo.</DESCRIPCIO>
       <PREU>6,80</PREU>
+      <IMATGE>https://pastelbymariu.es/wp-content/uploads/2023/10/DSC_0402.jpg</IMATGE>
     </PLAT>
     <PLAT>
       <NOM>Coulant de chocolate</NOM>
       <DESCRIPCIO>Delicioso coulant de chocolate con una bola de helado de vainilla como acompañante.</DESCRIPCIO>
       <PREU>4</PREU>
+      <IMATGE>https://www.dpipo.com/wp-content/uploads/2021/03/coulat-chocolate.jpg</IMATGE>
     </PLAT>
     <PLAT>
       <NOM>Tiramisú</NOM>
       <DESCRIPCIO>Clásico tiramisú italiano con café y mascarpone.</DESCRIPCIO>
       <PREU>6</PREU>
+      <IMATGE>https://s1.elespanol.com/2023/12/15/cocinillas/recetas/817428853_238446864_1706x1280.jpg</IMATGE>
     </PLAT>
     <PLAT>
       <NOM>Crema Catalana</NOM>
       <DESCRIPCIO>Postre tradicional con crema y azúcar caramelizado.</DESCRIPCIO>
       <PREU>5</PREU>
+      <IMATGE>https://assets.tmecosys.com/image/upload/t_web767x639/img/recipe/ras/Assets/A13E0EAA-DFA7-4264-8B3B-79CCC77F9282/Derivates/B59B434D-7C1D-4EEB-9CE2-B21BD45533D9.jpg</IMATGE>
     </PLAT>
   </GRUP>
 </CARTA>
